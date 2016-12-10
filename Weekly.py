@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 __author__ = 'ASHISH'
-import re, requests, bs4, time, esse, sys
+import re, requests, bs4, time, sys
 
 
 class Weekly():
